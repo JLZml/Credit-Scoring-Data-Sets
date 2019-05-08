@@ -1,0 +1,24 @@
+The data set mortgage is in panel form and reports origination and performance observations for 50,000 residential U.S. mortgage borrowers over 60 periods. The periods have been deidentified. As in the real world, loans may originate before the start of the observation period (this is an issue where loans are transferred between banks and investors as in securitization). The loan observations may thus be censored as the loans mature or borrowers refinance. The data set is a randomized selection of mortgage-loan-level data collected from the portfolios underlying U.S. residential mortgage-backed securities (RMBS) securitization portfolios and provided by International Financial Research (www.internationalfinancialresearch.org). Go to www.win-rar.com if you require a program to decompress. Key variables include:
+◾ id: Borrower ID
+◾ time: Time stamp of observation
+◾ orig_time: Time stamp for origination
+◾ first_time: Time stamp for first observation
+◾ mat_time: Time stamp for maturity
+◾ balance_time: Outstanding balance at observation time
+◾ LTV_time: Loan-to-value ratio at observation time, in %
+◾ interest_rate_time: Interest rate at observation time, in %
+◾ hpi_time: House price index at observation time, base year = 100
+◾ gdp_time: Gross domestic product (GDP) growth at observation time, in %
+◾ uer_time: Unemployment rate at observation time, in %
+◾ REtype_CO_orig_time: Real estate type condominium = 1, otherwise = 0
+◾ REtype_PU_orig_time: Real estate type planned urban development = 1, otherwise = 0
+◾ REtype_SF_orig_time: Single-family home = 1, otherwise = 0
+◾ investor_orig_time: Investor borrower = 1, otherwise = 0
+◾ balance_orig_time: Outstanding balance at origination time
+◾ FICO_orig_time: FICO score at origination time, in %
+◾ LTV_orig_time: Loan-to-value ratio at origination time, in %
+◾ Interest_Rate_orig_time: Interest rate at origination time, in %
+◾ hpi_orig_time: House price index at origination time, base year = 100
+◾ default_time: Default observation at observation time
+◾ payoff_time: Payoff observation at observation time
+◾ status_time: Default (1), payoff (2), and nondefault/nonpayoff (0) observation at observation time
