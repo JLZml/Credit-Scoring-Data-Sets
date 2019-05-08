@@ -15,7 +15,9 @@ These common credit score data sets are collected to empirical evaluations, and 
 
 
 Reference: 
+
 	(1.1; 1.2; 1.4; 1.5): M. Lichman, UCI machine learning repository, School of Information and Computer Science, University of California, Irvine, CA, http://archive.ics.uci.edu/ml/, (2013) , Accessed date: 1 September 2018.
+	
 	(1.3): I.C. Yeh, C.h. Lien, The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients, Expert Syst. Appl. 36 (2009) 2473–2480.
 
 2. PAKDD Data Mining Competition:
