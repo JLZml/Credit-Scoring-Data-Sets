@@ -1,0 +1,7 @@
+The ratings data set is an anonymized data set with corporate ratings where the ratings have been numerically encoded (1 = AAA, etc.). It has the following variables:
+◾ COMMEQTA: Common equity to total assets
+◾ LLPLOANS: Loan loss provision to total loans
+◾ COSTTOINCOME: Operating costs to operating income
+◾ ROE: Return on equity
+◾ LIQASSTA: Liquid assets to total assets
+◾ SIZE: Natural logarithm of total assets
