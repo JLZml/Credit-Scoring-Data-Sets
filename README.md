@@ -39,7 +39,10 @@ Reference: PAKDD data mining competition 2009, Credit risk assessment on a priva
 	(3.1) Give Me Some Credit(gmsc): https://www.kaggle.com/c/GiveMeSomeCredit
 	
 	(3.2) Credit Card Fraud Detection: https://www.kaggle.com/mlg-ulb/creditcardfraud
-
+	
+	(3.3) Home Credit Default Risk: https://www.kaggle.com/c/home-credit-default-risk/data
+	
+	(3.4) Credit Card Data from book "Econometric Analysis": https://www.kaggle.com/dansbecker/aer-credit-card-data
     
 4. Financial institutions in the Benelux(Belgium, The Netherlands and Luxembourg) and UK:
 
@@ -57,9 +60,15 @@ Reference: B. Baesens, T. Van Gestel, S. Viaene, M. Stepanova, J. Suykens, J. Va
 
 Reference: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002.
 
-6. Home equity loans:
+6. Credit risk analysis: http://www.creditriskanalytics.net
 
-	(6.1) hmeq
+	(6.1) hmeq: http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/hmeq.csv
+	
+	(6.2) Mortgage: http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/mortgage_csv.rar
+	
+	(6.3) LGD: http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/lgd.csv
+	
+	(6.4) Ratings: http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/ratings.csv
 		
 Reference: B. Baesens, D. Roesch, H. Scheule, Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS, $John Wiley & Sons$, 2016.
 
