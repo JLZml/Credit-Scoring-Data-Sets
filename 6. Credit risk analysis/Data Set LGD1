@@ -1,0 +1,9 @@
+The data set has been kindly provided by a European bank and has been slightly modified and anonymized. It includes 2,545 observations on loans and LGDs. Key variables are:
+◾ LTV: Loan-to-value ratio, in %
+◾ Recovery_rate: Recovery rate, in %
+◾ lgd_time: Loss rate given default (LGD), in %
+◾ y_logistic: Logistic transformation of the LGD
+◾ lnrr: Natural logarithm of the recovery rate
+◾ Y_probit: Probit transformation of the LGD
+◾ purpose1: Indicator variable for the purpose of the loan; 1 = renting purpose, 0 = other
+◾ event: Indicator variable for a default or cure event; 1 = event, 0 = no event
