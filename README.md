@@ -12,14 +12,15 @@ Reference: M. Lichman, UCI machine learning repository, School of Information an
 2. PAKDD Data Mining Competition:
 
 	(2.1) pakdd 2009: 
-		link1: http://sede.neurotech.com.br/PAKDD2009 （temporarily inaccessible）
-		link2: https://pakdd.org/archive/pakdd2009/front/show/competition.html（temporarily inaccessible）
+		link1: http://sede.neurotech.com.br/PAKDD2009 （temporarily inaccessible)
+		link2: https://pakdd.org/archive/pakdd2009/front/show/competition.html (temporarily inaccessible）
     
 Reference: PAKDD data mining competition 2009, Credit risk assessment on a private label credit card application (2009), http://sede.neurotech.com.br/PAKDD2009
 
 3. Kaggle:
 
 	(3.1) Give Me Some Credit(gmsc): https://www.kaggle.com/c/GiveMeSomeCredit
+	(3.2) Credit Card Fraud Detection: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
     
 4. Financial institutions in the Benelux and UK:
