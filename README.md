@@ -5,11 +5,13 @@ These common credit score data sets are collected to empirical evaluations, and 
 
 	(1.1) German: http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 	
-	 or Kaggle url: https://www.kaggle.com/uciml/german-credit
+	  or Kaggle url: https://www.kaggle.com/uciml/german-credit
 
 	(1.2) Australian: http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29
          
 	(1.3) Taiwan: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+	
+	  or Kaggle url:https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 	
 	(1.4) Japan: http://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening
 	
