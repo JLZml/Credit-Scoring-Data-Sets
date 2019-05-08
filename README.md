@@ -3,11 +3,20 @@ These common credit score data sets are collected to empirical evaluations, and 
 
 1. UCI Repository:
 
-	(1.1) german: http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
+	(1.1) German: http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 
-	(1.2) australian: http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29
+	(1.2) Australian: http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29
+         
+	(1.3) Taiwan: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+	
+	(1.4) Japan: http://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening
+	
+	(1.5) Polish: http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
 
-Reference: M. Lichman, UCI machine learning repository, School of Information and Computer Science, University of California, Irvine, CA, http://archive.ics.uci.edu/ml/, (2013) , Accessed date: 1 September 2018.
+
+Reference: 
+	(1.1; 1.2; 1.4; 1.5): M. Lichman, UCI machine learning repository, School of Information and Computer Science, University of California, Irvine, CA, http://archive.ics.uci.edu/ml/, (2013) , Accessed date: 1 September 2018.
+	(1.3): I.C. Yeh, C.h. Lien, The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients, Expert Syst. Appl. 36 (2009) 2473–2480.
 
 2. PAKDD Data Mining Competition:
 
@@ -26,7 +35,7 @@ Reference: PAKDD data mining competition 2009, Credit risk assessment on a priva
 	(3.2) Credit Card Fraud Detection: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
     
-4. Financial institutions in the Benelux and UK:
+4. Financial institutions in the Benelux(Belgium, The Netherlands and Luxembourg) and UK:
 
 	(4.1) bene1
 	
