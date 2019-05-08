@@ -13,6 +13,7 @@ Reference: M. Lichman, UCI machine learning repository, School of Information an
 
 	(2.1) pakdd 2009: 
 		link1: http://sede.neurotech.com.br/PAKDD2009 （temporarily inaccessible)
+		
 		link2: https://pakdd.org/archive/pakdd2009/front/show/competition.html (temporarily inaccessible）
     
 Reference: PAKDD data mining competition 2009, Credit risk assessment on a private label credit card application (2009), http://sede.neurotech.com.br/PAKDD2009
@@ -20,18 +21,22 @@ Reference: PAKDD data mining competition 2009, Credit risk assessment on a priva
 3. Kaggle:
 
 	(3.1) Give Me Some Credit(gmsc): https://www.kaggle.com/c/GiveMeSomeCredit
+	
 	(3.2) Credit Card Fraud Detection: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
     
 4. Financial institutions in the Benelux and UK:
 
 	(4.1) bene1
+	
 	(4.2) bene2
+	
 	(4.3) uk
 		
 Reference: B. Baesens, T. Van Gestel, S. Viaene, M. Stepanova, J. Suykens, J. Vanthienen, Benchmarking state-of-the-art classification algorithms for credit scoring, Journal of the Operational Research Society 54 (6) (2003) 627–635.
 
 5.
+
 	(5.1) thomas
 
 Reference: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002.
@@ -46,4 +51,5 @@ Reference: B. Baesens, D. Roesch, H. Scheule, Credit Risk Analytics: Measurement
 7. Lending club:
 
 	(7.1) Lending club: https://www.lendingclub.com/info/download-data.action
+	
 	(7.2) A ton of LendingClub datasets on Kaggle: https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=lending%20club&page=1&pageSize=20&size=all&filetype=all&license=all
