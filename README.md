@@ -24,7 +24,7 @@ Reference:
 	
 	(1.3): I.C. Yeh, C.h. Lien, The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients, Expert Syst. Appl. 36 (2009) 2473–2480.
 
-2. PAKDD Data Mining Competition:
+2. 2009 PAKDD Data Mining Competition:
 
 	(2.1) pakdd 2009: 
 	
