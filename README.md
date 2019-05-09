@@ -30,7 +30,7 @@ Reference:
 	
 		link1: http://sede.neurotech.com.br/PAKDD2009 （temporarily inaccessible)
 		
-		link2: https://pakdd.org/archive/pakdd2009/front/show/competition.html (temporarily inaccessible）
+		link2: https://pakdd.org/archive/pakdd2009/front/show/competition.html
     
 Reference: PAKDD data mining competition 2009, Credit risk assessment on a private label credit card application (2009), http://sede.neurotech.com.br/PAKDD2009
 
