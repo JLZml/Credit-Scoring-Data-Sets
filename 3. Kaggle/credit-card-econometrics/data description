@@ -1,0 +1,23 @@
+Credit Card Data from book "Econometric Analysis"
+
+Context
+A small credit card dataset for simple econometric analysis,
+
+Content
+card: Dummy variable, 1 if application for credit card accepted, 0 if not
+reports: Number of major derogatory reports
+age: Age n years plus twelfths of a year
+income: Yearly income (divided by 10,000)
+share: Ratio of monthly credit card expenditure to yearly income
+expenditure: Average monthly credit card expenditure
+owner: 1 if owns their home, 0 if rent
+selfempl: 1 if self employed, 0 if not.
+dependents: 1 + number of dependents
+months: Months living at current address
+majorcards: Number of major credit cards held
+active: Number of active credit accounts
+Notes:
+According to Greene (2003, p. 952) dependents equals 1 + number of dependents. That is described above. The authors of the "AER" package in R believe it is the number of dependents. The correct definition is unresolved at this time ¯_(ツ)_/¯
+
+Acknowledgements
+This dataset was originally published alongside the 5th edition of William Greene's book Econometric Analysis.
