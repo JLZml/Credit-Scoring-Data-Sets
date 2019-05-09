@@ -52,8 +52,7 @@ Reference: PAKDD data mining competition 2009, Credit risk assessment on a priva
 		
 Reference: B. Baesens, T. Van Gestel, S. Viaene, M. Stepanova, J. Suykens, J. Vanthienen, Benchmarking state-of-the-art classification algorithms for credit scoring, Journal of the Operational Research Society 54 (6) (2003) 627–635.
 
-5.
-
+5. Thomas: More information see reference [Thomas 2002]
 	(5.1) thomas
 
 Reference: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002.
