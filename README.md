@@ -38,11 +38,9 @@ Reference: PAKDD data mining competition 2009, Credit risk assessment on a priva
 
 	(3.1) Give Me Some Credit(gmsc): https://www.kaggle.com/c/GiveMeSomeCredit
 	
-	(3.2) Credit Card Fraud Detection: https://www.kaggle.com/mlg-ulb/creditcardfraud
+	(3.2) Home Credit Default Risk: https://www.kaggle.com/c/home-credit-default-risk/data
 	
-	(3.3) Home Credit Default Risk: https://www.kaggle.com/c/home-credit-default-risk/data
-	
-	(3.4) Credit Card Data from book "Econometric Analysis": https://www.kaggle.com/dansbecker/aer-credit-card-data
+	(3.3) Credit Card Data from book "Econometric Analysis": https://www.kaggle.com/dansbecker/aer-credit-card-data
     
 4. Financial institutions in the Benelux(Belgium, The Netherlands and Luxembourg) and UK:
 
